@@ -6,6 +6,7 @@
    <UUID>29b3a0d5-2441-4da7-90d4-8163e63dfa87</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>E:\KATALON TEST\KatalonDev\KatalonDev.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
